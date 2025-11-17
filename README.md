@@ -82,7 +82,7 @@ I'm a 21-year-old software development student with a strong foundation in progr
 
 - 📧 **Email:** marcosravelo2908@gmail.com  
 - 📱 **Phone:** +1 829-792-9978  
-- 🔗 **Portfolio / LinkedIn:** [linktr.ee/RaveloDev](https://linktr.ee/RaveloDev)
+- 🔗 **Portfolio / LinkedIn:** [linktr.ee/RaveloDev](https://linktr.ee/Ravelo_Dev)
 
 ---
 
