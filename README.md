@@ -1,10 +1,11 @@
 # 👋 Hi there, I'm Marcos M. Ravelo!
 
-🎓 Final-year Software Development student at **Instituto Tecnológico de Las Américas (ITLA)**  
+🎓 Software Development **Instituto Tecnológico de Las Américas (ITLA)**  
 💻 Junior Programmer | IT Support | Tech Enthusiast  
 📍 Dominican Republic  
 🧠 Lifelong learner passionate about building impactful digital solutions
 
+![Ravelo-Dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravelo-Dev&theme=vue-dark&hide_border=true)
 ---
 
 ## 🧑‍💻 About Me
