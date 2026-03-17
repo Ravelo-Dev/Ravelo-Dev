@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a 21-year-old software development student with a strong foundation in programming, networking, and system analysis. I thrive in team environments and I'm always looking to improve my skills and contribute to meaningful projects.
+I'm a 22-year-old software development student with a strong foundation in programming, networking, and system analysis. I thrive in team environments and I'm always looking to improve my skills and contribute to meaningful projects.
 
 ---
 
@@ -19,6 +19,8 @@ I'm a 21-year-old software development student with a strong foundation in progr
 - Python • SQL • Java • C# (.NET)  
 - React • Android Studio  
 - HTML • CSS • JavaScript
+
+  ![Ravelo-Dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravelo-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### ⚙️ Tools & Technologies
 - Microsoft Office (Word, Excel, PowerPoint)  
