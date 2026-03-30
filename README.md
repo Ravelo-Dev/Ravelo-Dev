@@ -5,12 +5,11 @@
 📍 Dominican Republic  
 🧠 Lifelong learner passionate about building impactful digital solutions
 
-![Ravelo-Dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravelo-Dev&theme=vue-dark&hide_border=true)
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a 22-year-old software development student with a strong foundation in programming, networking, and system analysis. I thrive in team environments and I'm always looking to improve my skills and contribute to meaningful projects.
+I'm a 22-year-old software development with a strong foundation in programming, networking, and system analysis. I thrive in team environments and I'm always looking to improve my skills and contribute to meaningful projects.
 
 ---
 
@@ -21,7 +20,6 @@ I'm a 22-year-old software development student with a strong foundation in progr
 - React • Android Studio  
 - HTML • CSS • JavaScript
 
-  ![Ravelo-Dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravelo-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### ⚙️ Tools & Technologies
 - Microsoft Office (Word, Excel, PowerPoint)  
@@ -48,7 +46,7 @@ I'm a 22-year-old software development student with a strong foundation in progr
 
 **Tecnólogo en Desarrollo de Software**  
 *Instituto Tecnológico de Las Américas (ITLA)*  
-📅 *2022 - Present*
+📅 *2022 - 2025*
 
 **Bachiller Técnico en Desarrollo y Administración de Aplicaciones Informáticas**  
 *Politécnico Nuestra Señora de la Altagracia*  
